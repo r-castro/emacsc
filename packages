@@ -1,0 +1,32 @@
+  auto-complete      20170125.245  installed             Auto Completion for GNU Emacs
+  better-defaults    20190917.1545 installed             Fixing weird quirks and poor defaults
+  darcula-theme      20171227.1845 installed             Inspired by IntelliJ's Darcula theme
+  dracula-theme      20191029.1905 installed             Dracula Theme
+  elpy               20191024.2007 installed             Emacs Python Development Environment
+  helm-make          20190729.1221 installed             Select a Makefile target with helm
+  helm-projectile    20190731.1538 installed             Helm integration for Projectile
+  highlight-inden... 20190108.3    installed             Minor mode to highlight indentation
+  jinja2-mode        20141128.1007 installed             A major mode for jinja2
+  material-theme     20171123.1840 installed             A Theme based on the colors of the Google Material Design
+  monokai-alt-theme  20170630.2048 installed             Theme with a dark background. Based on sublime monokai theme.
+  monokai-pro-theme  20190924.2152 installed             A simple theme based on the Monokai Pro Sublime color schemes
+  monokai-theme      20190801.1701 installed             A fruity color theme for Emacs.
+  powerline          20190323.213  installed             Rewrite of Powerline
+  spacemacs-theme    20191107.1747 installed             Color theme with a dark and light versions
+  virtualenvwrapper  20190223.1919 installed             a featureful virtualenv tool for Emacs
+  web-mode           20191104.1859 installed             major mode for editing web templates
+  yasnippet-snippets 20191114.1044 installed             Collection of yasnippet snippets
+  zenburn-theme      20191016.655  installed             A low contrast color theme for Emacs.
+  async              20191030.2138 dependency            Asynchronous processing in Emacs
+  company            20190907.1149 dependency            Modular text completion framework
+  dash               20191109.1327 dependency            A modern list library for Emacs
+  epl                20180205.2049 dependency            Emacs Package Library
+  helm               20191112.2014 dependency            Helm is an Emacs incremental and narrowing framework
+  helm-core          20191110.632  dependency            Development files for Helm
+  highlight-inden... 20181204.839  dependency            Minor modes for highlighting indentation
+  pkg-info           20150517.1143 dependency            Information about packages
+  popup              20160709.1429 dependency            Visual Popup User Interface
+  projectile         20191024.721  dependency            Manage and navigate projects in Emacs easily
+  pyvenv             20191006.1304 dependency            Python virtual environment interface
+  s                  20180406.808  dependency            The long lost Emacs string manipulation library.
+  yasnippet          20191030.1331 dependency            Yet another snippet extension for Emacs
